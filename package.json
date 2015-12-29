@@ -1,0 +1,19 @@
+{
+  "name": "new_project",
+  "version": "1.0.0",
+  "description": "New Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkjm/723990c518acfee6e473"
+  },
+  "author": "Kazuki Nakajima",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
